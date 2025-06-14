@@ -1,4 +1,4 @@
-# 📝 Kendi Dijital Not Defteriniz
+# 📝 Kendi Dijital Not Defteriniz (TR)
 
 **Gizli tarifleri, unutulmaması gereken görevleri ve aniden gelen fikirleri saklamak için ideal bir yer !**  
 Artık dağınık kâğıtlarla veya kaybolan notlarla uğraşmak yok. " Bir yere yazmıştım ama nerede?" sorusuna veda zamanı.

@@ -13,13 +13,13 @@ Bu proje, metin tabanlı interaktif bir not defteri uygulamasıdır. Kullanıcı
 
 ##  Özellikler :
 
--Not ekleme ( tarih ve saat bilgisi ile birlikte )
+- Not ekleme ( tarih ve saat bilgisi ile birlikte )
 - Notları listeleme
 - Not silme
 - Not düzenleme ( değiştirme tarihi ve saat bilgisi ile birlikte)
 - Anahtar kelime ile not arama
 - Notları ' .txt ' dosyasına kaydetme
--Uygulama açıldığında daha önce kaydedilen notları otomatik görüntüleme
+- Uygulama açıldığında daha önce kaydedilen notları otomatik görüntüleme
 - Kullanıcı dostu metin tabanlı menü
 
 --- 
